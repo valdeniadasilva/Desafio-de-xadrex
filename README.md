@@ -1,4 +1,4 @@
-# Desafio-de-xadrex
+# Desafio-de-xadrez
 #include <stdio.h>
 
 // Função para mover a Torre usando um loop for
